@@ -15,7 +15,7 @@
   </div>
 </template>
 <script>
-import tab from '@/pages/tab'
+import tab from '@/components/tab/tab'
 export default {
     data () {
         return {
